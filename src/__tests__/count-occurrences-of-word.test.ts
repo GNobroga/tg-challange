@@ -1,4 +1,4 @@
-import countOccurrencesOfWord from "../count-occurrences-of-word";
+import countOccurrencesOfWord from "../functions/count-occurrences-of-word";
 
 describe('count occurrences of word testes de unidade', () => { 
 

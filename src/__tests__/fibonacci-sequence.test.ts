@@ -1,4 +1,4 @@
-import isValueInFibonacciSequence from '../fibonacci-sequence';
+import isValueInFibonacciSequence from '../functions/fibonacci-sequence';
 
 describe('finonnaci sequence testes de unidade', () => {
     test('deve retorna true, pois o 5 existe.', () => {

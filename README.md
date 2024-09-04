@@ -6,7 +6,13 @@ Passo 1
     npm install
 ```
 
-Passo 2
+### Para executar a aplicação
+
+```bash
+    npx ts-node ./src/main
+```
+ 
+### Para executar testes
 
 ```bash
     npm run test
